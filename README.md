@@ -1,4 +1,4 @@
-# Introduction
+[![Go Reference](https://pkg.go.dev/badge/github.com/ddrake12/vwap.svg)](https://pkg.go.dev/github.com/ddrake12/vwap) ![Build Status](https://github.com/ddrake12/vwap/actions/workflows/go.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/ddrake12/vwap)](https://goreportcard.com/report/github.com/ddrake12/vwap)
 
 Package `vwap` is a package built to calculate the [volume-weighted average price]( https://en.wikipedia.org/wiki/Volume-weighted_average_price) for different trading pairs. It currently supports pulling data from [coinbase](https://docs.pro.coinbase.com/#introduction) for 3 different pairs:
 
